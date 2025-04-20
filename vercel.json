@@ -1,12 +1,5 @@
-"devDependencies": {
-  "vite": "^4.4.9",
-  "@vitejs/plugin-react": "^4.0.0"
-}
 {
   "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/index.html"
-    }
+    { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
